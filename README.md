@@ -14,7 +14,9 @@
 
 
 
-최근 'Interactice Developer 김종민'님의 유튜브 영상에서 무비바코드 기법을 본인의 포트폴리오 제작에 사용한 것을 발견했다.
+최근 **Interactice Developer 김종민**님의 유튜브 영상에서 무비바코드 기법을 본인의 포트폴리오 제작에 사용한 것을 발견했다.
+
+(https://www.youtube.com/watch?v=TzNQs85fL1w) (4:28 부터)
 
 <img width="732" alt="1" src="https://user-images.githubusercontent.com/48689213/110961143-d19b1e80-8392-11eb-9b61-30cbe60945e2.png">
 
