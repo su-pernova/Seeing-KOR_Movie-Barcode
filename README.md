@@ -1,4 +1,4 @@
-# Seeing-KOR : Movie-Barcode 만들기 과제
+# Seeing-KOR : Movie-Barcode
 
 **무비바코드**란 영화의 한 장면을 하나의 색깔 바코드와 같은 이미지로 만드는 것이다.
 
